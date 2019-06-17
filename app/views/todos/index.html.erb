@@ -1,14 +1,9 @@
+
+<h1 class="text-center font-weight-bold" style="font-size: 2.5em">TAREAS COMPLETADASS</h1>
+
+
 <table>
-<thead>
-<tr>
-<th>Name</th>
 
-  <th>TAREAS COMPLETADAS</th>
-  <th colspan="3"></th>
-</tr>
-</thead>
-
-<tbody>
 <%@todos.each do |todo| %>
 <tr>
 <td><%= todo.task.name %> </td>
@@ -18,6 +13,7 @@
 </tr>
 
 <% end %>
-</tbody>
 
 </table>
+
+
