@@ -7,9 +7,14 @@
       <div class="card mb-2 mt-2">
         <%= image_tag task.photo, class:'card-img-top' %>
         <div class="card-body">
+
           <h5 class="card-title text-center"><%= task.name %></h5>
-          <a href="#" class="btn btn-primary">listo</a>
-           <a href="#" class="btn btn-danger">no listo</a>
+          <%= button_to 'Hacer', task_todos_path(task), class: "btn btn-warning" %>
+
+          
+          <a href="#" class="btn btn-primary">Listo</a>
+           <a href="#" class="btn btn-danger">No listo</a>
+           
             
           
         

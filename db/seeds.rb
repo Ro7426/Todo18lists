@@ -17,32 +17,32 @@ Task.create([
       photo: 'https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-chicha-de-uva-curacavi.jpg'
     },
     {
-        name: 'Tomar Chicha',
+        name: 'Tomar Chicha 2',
         photo: 'https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-chicha-de-uva-curacavi.jpg'
     },
     {
-        name: 'Tomar Chicha',
+        name: 'Tomar Chicha 3',
         photo: 'https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-chicha-de-uva-curacavi.jpg'
     },
     {
-        name: 'Tomar Chicha',
+        name: 'Tomar Chicha 4',
         photo: 'https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-chicha-de-uva-curacavi.jpg'
     },
     {
-        name: 'Tomar Chicha',
+        name: 'Tomar Chicha 5',
         photo: 'https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-chicha-de-uva-curacavi.jpg'
     },
     {
-        name: 'Tomar Chicha',
+        name: 'Tomar Chicha 6',
         photo: 'https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-chicha-de-uva-curacavi.jpg'
     },
     {
-        name: 'Tomar Chicha',
+        name: 'Tomar Chicha 7',
         photo: 'https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-chicha-de-uva-curacavi.jpg'
     },
 
     {
-        name: 'Tomar Chicha',
+        name: 'Tomar Chicha 8',
         photo: 'https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-chicha-de-uva-curacavi.jpg'
     }
     

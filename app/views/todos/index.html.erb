@@ -1,0 +1,23 @@
+<table>
+<thead>
+<tr>
+<th>Name</th>
+
+  <th>TAREAS COMPLETADAS</th>
+  <th colspan="3"></th>
+</tr>
+</thead>
+
+<tbody>
+<%@todos.each do |todo| %>
+<tr>
+<td><%= todo.task.name %> </td>
+<td style="text-align: center; vertical-align: middle;">
+<input type="checkbox" name="completed" id="">
+</td>
+</tr>
+
+<% end %>
+</tbody>
+
+</table>
